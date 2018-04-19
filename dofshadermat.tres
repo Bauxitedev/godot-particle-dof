@@ -1,0 +1,14 @@
+[gd_resource type="ShaderMaterial" load_steps=3 format=2]
+
+[ext_resource path="res://dofshader.shader" type="Shader" id=1]
+[ext_resource path="res://particledof_tex.png" type="Texture" id=2]
+
+[resource]
+
+render_priority = 0
+shader = ExtResource( 1 )
+shader_param/focal_plane = 2.555
+shader_param/aperture = 0.225
+shader_param/doftex = ExtResource( 2 )
+_sections_unfolded = [ "shader_param" ]
+
