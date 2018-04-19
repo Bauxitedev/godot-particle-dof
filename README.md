@@ -12,3 +12,9 @@ But has some disadvantages as well:
 
 - Only works for radial particles, that is, disks and toruses and such, facing towards the camera.
 - All particles must have the same size, or the effect breaks down.
+
+It looks like this:
+
+![Bokeh](example/img.png)
+
+I'll post a video soon.
