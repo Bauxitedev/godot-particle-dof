@@ -17,4 +17,4 @@ It looks like this:
 
 ![Bokeh](example/img.png)
 
-I'll post a video soon.
+[Here's a video of it in action.](https://www.youtube.com/watch?v=7FDlCm7AiLw)
