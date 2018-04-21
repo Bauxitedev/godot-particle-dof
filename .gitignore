@@ -4,6 +4,7 @@
 ### Godot ###
 .import/
 .mono/
+*.import
 export_presets.cfg
 
 
