@@ -2,8 +2,8 @@ shader_type spatial;
 render_mode cull_disabled, unshaded, blend_add;
 
 uniform sampler2D doftex;
-uniform float focal_plane;
-uniform float aperture;
+uniform float focal_plane : hint_range(0, 10);
+uniform float aperture : hint_range(0, 1);
 
 void vertex()
 {
