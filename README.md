@@ -18,3 +18,8 @@ It looks like this:
 ![Bokeh](example/img.png)
 
 [Here's a video of it in action.](https://www.youtube.com/watch?v=7FDlCm7AiLw)
+
+License
+----
+
+MIT
